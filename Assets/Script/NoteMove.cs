@@ -10,7 +10,7 @@ public class NoteMove : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        speed = Top.speedNum * 0.00005f;
+        speed = Top.speedNum * 0.0001f;
         x = 1;
     }
 
